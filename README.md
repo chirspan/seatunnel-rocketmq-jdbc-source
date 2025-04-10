@@ -69,6 +69,7 @@ mvn clean package
 3. 将生成的jar包复制到Seatunnel的plugins目录
 
 ## 注意事项
+！当前内容由cursor生成，暂未进行测试完成验证
 
 1. 确保RocketMQ服务器正在运行且可访问
 2. 确保数据库服务器正在运行且可访问
